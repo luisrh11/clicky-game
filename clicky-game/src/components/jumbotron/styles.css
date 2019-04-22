@@ -1,0 +1,14 @@
+.jumbotron-fluid {
+    text-align: center;
+    background-image: radial-gradient(#87A39E,#2c323c);
+}
+
+#jh1{
+    font-weight: 500;
+    color: white;
+}
+
+#jp{
+    font-weight: 600;
+    color: white;
+}
